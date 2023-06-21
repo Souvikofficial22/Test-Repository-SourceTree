@@ -1,5 +1,6 @@
 package com.monocept.activity;
 
-public class BaseActivity {
+abstract public class BaseActivity {
 
+	public abstract void onProcess();
 }

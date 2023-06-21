@@ -6,7 +6,7 @@ public abstract class BaseActivity {
 		
 	}
 	
-	abstract void onProcess();
+	public abstract void onProcess();
 	
 	public void postProcess() {
 		
